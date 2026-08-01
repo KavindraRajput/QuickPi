@@ -379,7 +379,7 @@
   //
   // Set this to your deployed backend's URL before going live.
   // ============================================================
-  const AUTH_BACKEND_URL = 'https://YOUR-BACKEND-HOST/api/pi-auth';
+  const AUTH_BACKEND_URL = 'https://quickpi-backend.onrender.com/api/pi-auth';
 
   // Sandbox mode is for testing in the Pi Sandbox during development.
   // Set to false for a production/mainnet submission.
